@@ -6,7 +6,7 @@ succeeds in placing three of their marks in a horizontal, vertical, or diagonal 
 it is not necessarily the case that every game has a winner (e.g., see Figure 2): when there is not a single free slot in the grid, and when neither player has managed to mark a winning row, then it is
 called a tie. That is, a game is considered as over either when there is a winner , or when there is a tie .
 
-Language and Tools : 
+### Language and Tools : 
 	
 	- C
 	
