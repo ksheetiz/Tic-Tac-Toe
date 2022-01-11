@@ -1,0 +1,59 @@
+body{
+    font-family: 'Licorice', cursive;
+    background-color: rgba(128, 128, 128, 0.603);
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#board{
+    padding-top: 3em;
+    text-align: center;
+}
+.row > div{
+    float: left;
+    height: 100px;
+    width: 100px;
+    cursor: -webkit-grab; cursor: grab;
+    line-height: 100px;
+    font-size: 75px;
+}
+
+.row{
+    width: 302px;
+    clear:both;
+    margin: 0 auto;
+}
+
+.top{
+    border-bottom: 1px solid black;
+}
+
+.top.middle{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.center.middle{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.center{
+    border-bottom: 1px solid black;
+}
+
+.bottom{
+    border-right: 1px solid black;
+}
+
+#player{
+    background-color: rgba(128, 128, 128, 0.438);
+    border: 1px solid rgba(0, 0, 0, 0.637);
+    margin-bottom: 1em;
+    border-radius: 1em;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Licorice', cursive;
+    font-weight: bold;
+    font-size: 1em;
+}   
