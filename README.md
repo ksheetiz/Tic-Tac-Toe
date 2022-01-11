@@ -12,3 +12,5 @@ called a tie. That is, a game is considered as over either when there is a winne
 	
 	- VS Code
 	
+	- HTML, CSS, Javascript (For Web App)
+	
